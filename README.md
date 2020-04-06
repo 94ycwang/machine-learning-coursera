@@ -1,8 +1,7 @@
 # Stanford Machine Learning (Coursera）
 My solution to all the programming exercises for Machine Learning (Coursera) taught by Andrew Ng.
 
-Contents
----
+## Contents
 * Exercise 1 -- Linear Regression
 * Exercise 2 -- Logistic Regression
 * Exercise 3 -- Multi-class Classification and Neural Networks
@@ -13,5 +12,4 @@ Contents
 * Exercise 8 -- Anomaly Detection and Recommender Systems
 
 ## Reference
----
 [[1] Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
